@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Seeed_Studio_XIAO_Series")(type "KiCad")(uri "D:/Documents/Freelancing Work/Cody fiverr/OPL_Kicad_Library/Seeed Studio XIAO Series Library/Seeed_Studio_XIAO_Series.kicad_sym")(options "")(descr ""))
+  (lib (name "Seeeduino XIAO")(type "Legacy")(uri "D:/Documents/Downloads Outlook user/Seeeduino-XIAO-KICAD/Seeeduino XIAO KICAD/Seeeduino XIAO.lib")(options "")(descr ""))
+  (lib (name "User Symbol Library")(type "KiCad")(uri "${KIPRJMOD}/Symbols Library/User Symbol Library.kicad_sym")(options "")(descr ""))
+)
