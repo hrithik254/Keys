@@ -119,4 +119,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
+  (model "${KIPRJMOD}/User 3D Library/MX keycaps.STEP"
+    (offset (xyz -9 9 11.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
